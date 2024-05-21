@@ -1,5 +1,5 @@
-# 💫 About Me:
-Cracking the Code to Creativity<br><br>I am a web developer and graphic designer with a talent for crafting visually stunning and user-friendly websites. 
+# 💫 Cracking the Code to Creativity :
+<br>I am a web developer and graphic designer with a talent for crafting visually stunning and user-friendly websites. 
 
 
 ## 🌐 Socials:
